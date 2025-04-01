@@ -1,0 +1,12 @@
+.card-header {
+    cursor: pointer;
+}
+
+.completed {
+    color: green;
+    font-weight: bold;
+}
+
+.progress-container {
+    margin-bottom: 20px;
+}
